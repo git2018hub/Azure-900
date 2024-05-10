@@ -4,4 +4,4 @@ Microsoft Azure 900 exam real questions and ideas, hope more people will share m
 
 azure 900 pdf:https://drive.google.com/file/d/12aOICgPlJuZFRboSudK4xiCYr966fks4/view?usp=sharing
 
-https://www.lead4pass.com/az-900.html
+https://www.leads4pass.com/az-900.html
